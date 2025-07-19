@@ -2,7 +2,6 @@
 
 A simple and efficient to-do list application built with Streamlit that helps you manage your daily tasks.
 
-![App Screenshot](https://via.placeholder.com/600x400?text=Streamlit+To-Do+App+Screenshot) *(Replace with actual screenshot after deployment)*
 
 ## Features
 
